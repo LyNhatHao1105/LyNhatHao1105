@@ -1,15 +1,15 @@
 <h1 align="center">👋 I'm Lý Nhật Hào</h1>
 <h3 align="center">IT Student At The University of Science - HCMC</h3>
 
-- 🔭 My specializing at school **Information Systems**
+- 🔭 My specializing at school: **Information Systems**
 
-- 📝 Love to learn new things **Technology,Business, Stock, Analysis**
+- 📝 Love to learn new things: **Technology, Business, Stock, Analysis, ...**
 
-- 📫 How to reach me **lnhao.it@gmail.com**
+- ⚡ Communication & Collaboration: **Good written and verbal communication**
 
-- ⚡ Communication & Collaboration **Good written and verbal communication**
+- 👀 Hopeful to become: **Data Engineer, Business Analyst**
 
-- 👀 Hopeful to become **Data Engineer, Business Analyst**
+- 📫 How to reach me: **lnhao.it@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
