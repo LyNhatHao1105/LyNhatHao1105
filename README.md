@@ -3,7 +3,13 @@
 
 - 🔭 My specializing at school **Information Systems**
 
+- 📝 Love to learn new things **Technology,Business, Stock, Analysis**
+
 - 📫 How to reach me **lnhao.it@gmail.com**
+
+- ⚡ Communication & Collaboration **Good written and verbal communication**
+
+- 👀 Hopeful to become **Data Engineer, Business Analyst**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
