@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Lý Nhật Hào</h1>
-<h3 align="center">A Student At The University of Science - HCMC</h3>
+<h1 align="center">👋 I'm Lý Nhật Hào</h1>
+<h3 align="center">IT Student At The University of Science - HCMC</h3>
 
 - 🔭 My specializing at school **Information Systems**
 
